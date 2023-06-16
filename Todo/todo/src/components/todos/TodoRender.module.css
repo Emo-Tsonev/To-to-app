@@ -1,0 +1,42 @@
+
+
+.container {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.button {
+    padding: 7px 12px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #ff5945;
+    outline: none;
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.container > p  {
+    font-size: 20px;
+    color:  rgb(11, 184, 228);
+    font-weight: bold;
+    font-family:  'Special Elite', cursive;
+}
+
+
+.container > p > span {
+     color: #ff5945;
+
+}
+
+div > input {
+    border: none;
+    outline: none;
+    background: #fff;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 30px;
+}
+

@@ -1,0 +1,13 @@
+
+.wrapper {
+  display:  flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  min-height: 100vh;
+  background: rgb(195,44,34);
+  background: linear-gradient(0deg, rgba(195,44,34,0.31416316526610644) 88%, 
+  rgba(45,112,253,0.19371498599439774) 96%);
+
+}
